@@ -1,0 +1,6 @@
+
+body { background-color: #111; color: white; font-family: sans-serif; margin: 0; padding: 0; }
+header, nav { background-color: #222; padding: 10px; text-align: center; }
+nav a { margin: 0 10px; color: #fff; text-decoration: none; }
+.gallery { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px; }
+img, video, audio { max-width: 300px; border: 2px solid white; }
